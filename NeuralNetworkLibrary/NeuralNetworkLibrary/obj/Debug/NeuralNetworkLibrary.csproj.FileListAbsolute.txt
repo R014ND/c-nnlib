@@ -1,0 +1,7 @@
+C:\Users\bajnok\source\repos\NeuralNetworkLibrary\NeuralNetworkLibrary\bin\Debug\NeuralNetworkLibrary.exe.config
+C:\Users\bajnok\source\repos\NeuralNetworkLibrary\NeuralNetworkLibrary\bin\Debug\NeuralNetworkLibrary.exe
+C:\Users\bajnok\source\repos\NeuralNetworkLibrary\NeuralNetworkLibrary\bin\Debug\NeuralNetworkLibrary.pdb
+C:\Users\bajnok\source\repos\NeuralNetworkLibrary\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.csprojAssemblyReference.cache
+C:\Users\bajnok\source\repos\NeuralNetworkLibrary\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bajnok\source\repos\NeuralNetworkLibrary\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.exe
+C:\Users\bajnok\source\repos\NeuralNetworkLibrary\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.pdb
